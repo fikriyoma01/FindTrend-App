@@ -3,6 +3,8 @@
 ## Deskripsi Singkat
 FindTrend! adalah aplikasi mobile yang dirancang untuk membantu pengguna berkebun di lingkungan perkotaan sekaligus menyediakan platform komunitas untuk berbagi pengalaman berkebun. Aplikasi ini menawarkan rekomendasi tanaman, panduan perawatan, serta forum komunitas untuk berbagi foto dan berkomentar tentang kegiatan berkebun.
 
+Dokumentasi lengkap proyek: [sini](https://github.com/fikriyoma01/FindTrend-App/blob/main/dokumentasi_proyek/FindTrend-skpl.docx.pdf)
+
 ## Fitur-Fitur
 1. **Login dan Autentikasi**
    - Pengguna dapat masuk ke dalam aplikasi menggunakan kredensial yang telah terdaftar.
@@ -50,3 +52,9 @@ Untuk menjalankan proyek ini di mesin lokal Anda, ikuti langkah-langkah berikut:
 4. **Jalankan aplikasi:**
    ```bash
    flutter run
+
+
+## Tampilan Proyek
+![Fitur_preview](https://github.com/fikriyoma01/FindTrend-App/blob/main/dokumentasi_proyek/Fitur_preview.png?raw=true)
+
+![Fitur_preview_2](https://github.com/fikriyoma01/FindTrend-App/blob/main/dokumentasi_proyek/Fitur_preview_2.png?raw=true)
